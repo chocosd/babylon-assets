@@ -1,0 +1,25 @@
+﻿newmtl /Game/Isometric-Interiors/Materials/M_Texture_Atlas_M_Texture_Atlas
+	map_Kd M_Texture_Atlas_M_Texture_Atlas_D.bmp
+	map_Ks M_Texture_Atlas_M_Texture_Atlas_S.bmp
+	bump M_Texture_Atlas_M_Texture_Atlas_N.bmp
+
+newmtl /Engine/EditorMaterials/MatineeCam_mat_MatineeCam_mat
+	map_Kd MatineeCam_mat_MatineeCam_mat_D.bmp
+	map_Ks MatineeCam_mat_MatineeCam_mat_S.bmp
+	bump MatineeCam_mat_MatineeCam_mat_N.bmp
+
+newmtl /Game/Isometric-Interiors/Maps/Map_1_Map_1_PersistentLevel_BP_Sky_Sphere_791_SkySphereMesh_MaterialInstanceDynamic_0
+	map_Kd Map_1_Map_1_PersistentLevel_BP_Sky_Sphere_791_SkySphereMesh_MaterialInstanceDynamic_0_D.bmp
+	map_Ks Map_1_Map_1_PersistentLevel_BP_Sky_Sphere_791_SkySphereMesh_MaterialInstanceDynamic_0_S.bmp
+	bump Map_1_Map_1_PersistentLevel_BP_Sky_Sphere_791_SkySphereMesh_MaterialInstanceDynamic_0_N.bmp
+
+newmtl /Game/Isometric-Interiors/Materials/M_Window_Glass_M_Window_Glass
+	map_Kd M_Window_Glass_M_Window_Glass_D.bmp
+	map_Ks M_Window_Glass_M_Window_Glass_S.bmp
+	bump M_Window_Glass_M_Window_Glass_N.bmp
+
+newmtl /Game/Isometric-Interiors/Materials/M_Mirror_Glass_M_Mirror_Glass
+	map_Kd M_Mirror_Glass_M_Mirror_Glass_D.bmp
+	map_Ks M_Mirror_Glass_M_Mirror_Glass_S.bmp
+	bump M_Mirror_Glass_M_Mirror_Glass_N.bmp
+
