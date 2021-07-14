@@ -1,0 +1,166 @@
+{
+	"asset": 
+	{
+		"version": "2.0",
+		"generator": "Unreal Engine 4 glTF Exporter"
+	},
+	"scene": 0,
+	"accessors": [
+		{
+			"bufferView": 0,
+			"count": 132,
+			"type": "SCALAR",
+			"componentType": 5121
+		},
+		{
+			"bufferView": 1,
+			"count": 70,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -2,
+				-2.95501499e-16,
+				-2
+			],
+			"max": [ 2,
+				4,
+				2
+			]
+		},
+		{
+			"bufferView": 2,
+			"count": 70,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 3,
+			"count": 70,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 4,
+			"count": 70,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 5,
+			"count": 70,
+			"type": "VEC2",
+			"componentType": 5126
+		}
+	],
+	"buffers": [
+		{
+			"uri": "Wall_4.bin",
+			"byteLength": 4052
+		}
+	],
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 132,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 840,
+			"byteOffset": 132,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 840,
+			"byteOffset": 972,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1120,
+			"byteOffset": 1812,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 560,
+			"byteOffset": 2932,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 560,
+			"byteOffset": 3492,
+			"target": 34962
+		}
+	],
+	"images": [
+		{
+			"uri": "Texture_Atlas.png"
+		}
+	],
+	"materials": [
+		{
+			"name": "M_Texture_Atlas",
+			"pbrMetallicRoughness": 
+			{
+				"baseColorTexture": 
+				{
+					"index": 0
+				},
+				"metallicFactor": 0.25,
+				"roughnessFactor": 0.899999976
+			}
+		}
+	],
+	"meshes": [
+		{
+			"name": "SM_Wall_2_6",
+			"primitives": [
+				{
+					"attributes": 
+					{
+						"POSITION": 1,
+						"NORMAL": 2,
+						"TANGENT": 3,
+						"TEXCOORD_0": 4,
+						"TEXCOORD_1": 5
+					},
+					"indices": 0,
+					"material": 0
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"name": "SM_Wall_2_134_StaticMeshComponent0",
+			"translation": 
+			[ 18,
+				0,
+				9
+			],
+			"mesh": 0
+		}
+	],
+	"samplers": [
+		{
+			"name": "Texture_Atlas",
+			"minFilter": 9987,
+			"magFilter": 9729
+		}
+	],
+	"scenes": [
+		{
+			"name": "Overview_Map",
+			"nodes": [ 0 ]
+		}
+	],
+	"textures": [
+		{
+			"name": "Texture_Atlas",
+			"sampler": 0,
+			"source": 0
+		}
+	]
+}
